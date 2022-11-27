@@ -1,7 +1,7 @@
  ### Хохон Александр Сергеевич             
 
 
-<img stule="width: =50px; height: =50px" src="https://github.com/asx999/asx999/blob/master/img/IMG_0649.jpg">
+![Header](https://github.com/asx999/asx999/blob/master/img/IMG_0649.jpg" width="50px" height="50px")
 
 -------------------     ----------------------------
 MyAddress:                4218820@gmail.com
