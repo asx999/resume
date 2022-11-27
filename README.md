@@ -1,4 +1,4 @@
-![Header](https://github.com/asx999/asx999/blob/master/img/IMG_0649.jpg" width="200px" height="200px" /) ### Хохон Александр Сергеевич             
+![Header](https://github.com/asx999/asx999/blob/master/img/IMG_0649.jpg" width="200px" height="200px") ### Хохон Александр Сергеевич             
 
 
 -------------------     ----------------------------
